@@ -1,4 +1,6 @@
-https://transistor-archive.github.io/yahoo-internet-bookmarks-1997-03/
+Live Version: https://transistor-archive.github.io/yahoo-internet-bookmarks-1997-03/
+
+Disk Archive: https://archive.org/details/yahoo-internet-bookmarks-1997-volume-3
 
     |o|,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,|o|
     |o|             _______             |o|
